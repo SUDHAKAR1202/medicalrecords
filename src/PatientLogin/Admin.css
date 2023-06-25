@@ -1,0 +1,20 @@
+.Admin {
+    text-align: center;
+  }
+  
+  nav{
+    display:flex;
+    justify-content: flex;
+    align-items: flex;
+    min-height: 10vh;
+    background-color: rgb(241, 237, 237);
+    color: rgb(255, 255, 255);
+  }
+  .nav-links{
+    width: 40%;
+    display: flex;
+    justify-content: flex;
+    align-items: center;
+  list-style: none;
+  }
+  
